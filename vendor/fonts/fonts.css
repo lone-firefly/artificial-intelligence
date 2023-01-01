@@ -1,0 +1,8 @@
+@font-face {
+  font-family: '';  /* Название шрифта */ 
+  src: url('./') format('woff2'), /* Путь к расположению шрифта */ 
+       url('./') format('woff');
+  font-weight: 400; /* Толщина шрифта */ 
+  font-style: normal; /* Стиль шрифта */ 
+  font-display: swap; /* Отображение шрифта */ 
+}
