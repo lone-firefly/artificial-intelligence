@@ -1,3 +1,4 @@
-:root{
-  --variables : 10px; /* Переменная : свойтва */ 
+:root {
+  --color-main-bg: #020a18;
+  --color-main-blue: #3a68b8;
 }
