@@ -1,4 +1,12 @@
 :root {
   --color-main-bg: #020a18;
+  --color-main-blue-active: #1c4489;
+  --color-main-blue-hover: #548be9;
   --color-main-blue: #3a68b8;
+  --color-main-leniar: linear-gradient(
+    180deg,
+    rgba(255, 255, 255, 0.2) -41.9%,
+    #ffffff 115.68%
+  );
+  --color-white: #ffffff;
 }

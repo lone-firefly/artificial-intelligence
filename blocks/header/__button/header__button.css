@@ -1,0 +1,9 @@
+.header__button {
+  background: var(--color-main-blue);
+  border: none;
+  cursor: pointer;
+  width: 112px;
+  height: 52px;
+  margin-top: 23px;
+  border-radius: 5px;
+}

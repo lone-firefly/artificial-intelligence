@@ -1,0 +1,6 @@
+.about__group {
+  display: grid;
+  width: 460px;
+  gap: 20px;
+  justify-content: left;
+}

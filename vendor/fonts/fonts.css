@@ -1,8 +1,15 @@
 @font-face {
-  font-family: '';  /* Название шрифта */ 
-  src: url('./') format('woff2'), /* Путь к расположению шрифта */ 
-       url('./') format('woff');
-  font-weight: 400; /* Толщина шрифта */ 
-  font-style: normal; /* Стиль шрифта */ 
-  font-display: swap; /* Отображение шрифта */ 
+  font-family: "OpenSans";
+  src: url("./OpenSans-Italic.ttf") format("truetype");
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "OpenSans";
+  src: url("./OpenSans.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
 }

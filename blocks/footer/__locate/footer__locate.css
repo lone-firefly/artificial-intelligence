@@ -1,0 +1,5 @@
+.footer__locate {
+  display: flex;
+  gap: 9px;
+  align-items: center;
+}

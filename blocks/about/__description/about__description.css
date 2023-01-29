@@ -1,0 +1,4 @@
+.about__description {
+  display: grid;
+  gap: 40px;
+}

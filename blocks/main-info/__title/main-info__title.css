@@ -1,0 +1,8 @@
+.main-info__title {
+  width: 604px;
+  height: 142px;
+  color: var(--color-white);
+  margin: 0px;
+  font-weight: 800;
+  font-size: 55px;
+}

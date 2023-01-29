@@ -1,0 +1,7 @@
+.main-info__subtitle {
+  width: 265px;
+  height: 29px;
+  color: var(--color-main-blue);
+  margin: 0px;
+  font-size: 18px;
+}

@@ -1,0 +1,6 @@
+.company {
+  display: flex;
+  justify-content: center;
+  gap: 70px;
+  margin-top: 50px;
+}
