@@ -1,4 +1,6 @@
 .header {
   margin-top: 51px;
-  background-color: black;
+  background: var(--color-main-leniar);
+  backdrop-filter: blur(100px);
+  border-radius: 10px;
 }

@@ -1,0 +1,4 @@
+.main-info__buttons {
+  display: flex;
+  gap: 25px;
+}

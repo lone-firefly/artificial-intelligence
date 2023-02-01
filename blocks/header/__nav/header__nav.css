@@ -1,6 +1,6 @@
 .header__nav {
   color: var(--color-white);
   display: flex;
-  margin-left: 387px;
+  justify-content: center;
   height: 100px;
 }

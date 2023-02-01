@@ -1,12 +1,9 @@
-.header__button {
+.about-learn__button {
   background: var(--color-main-blue);
-  border: none;
-  cursor: pointer;
-  width: 112px;
-  height: 52px;
-  margin-top: 23px;
-  border-radius: 5px;
   color: var(--color-white);
+  width: 150px;
+  height: 52px;
+  border-radius: 5px;
   font-weight: 600;
   font-size: 16px;
   line-height: 22px;

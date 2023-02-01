@@ -1,9 +1,11 @@
 .feature__card {
-  display: grid;
+  display: flex;
+  flex-direction: column;
   border-radius: 10px;
   width: 362px;
   height: 389px;
-  background-color: black;
-  justify-content: center;
+  background: var(--color-main-leniar);
+  backdrop-filter: blur(100px);
   align-items: center;
+  justify-content: center;
 }

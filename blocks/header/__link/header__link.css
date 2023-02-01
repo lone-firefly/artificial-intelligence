@@ -1,1 +1,19 @@
+.header__link {
+  color: var(--color-white);
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 22px;
+}
 
+.header__link:hover {
+  color: rgb(230, 230, 230);
+}
+
+.header__link:active {
+  color: var(--color-main-blue);
+}
+
+.header__link:focus {
+  border-bottom: 1px var(--color-main-blue) solid;
+  outline: none;
+}

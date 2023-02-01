@@ -1,0 +1,9 @@
+.main-info__button {
+  padding: 15px 30px;
+  background: var(--color-main-blue);
+  border-radius: 5px;
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 27px;
+  color: var(--color-white);
+}

@@ -5,8 +5,8 @@
   --color-main-blue: #3a68b8;
   --color-main-leniar: linear-gradient(
     180deg,
-    rgba(255, 255, 255, 0.2) -41.9%,
-    #ffffff 115.68%
+    rgba(255, 255, 255, 0.04) -41.9%,
+    rgba(255, 255, 255, 0.02) 115.68%
   );
   --color-white: #ffffff;
 }
