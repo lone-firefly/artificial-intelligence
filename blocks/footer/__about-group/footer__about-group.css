@@ -1,0 +1,6 @@
+.footer__about-group {
+  /* display: flex;
+  flex-direction: column; */
+  display: grid;
+  height: 260px;
+}

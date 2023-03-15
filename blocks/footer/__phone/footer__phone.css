@@ -2,4 +2,6 @@
   display: flex;
   gap: 9px;
   align-items: center;
+  height: 18px;
+  margin-top: 20px;
 }

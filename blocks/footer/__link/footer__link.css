@@ -1,0 +1,8 @@
+.footer__link {
+  text-decoration: none;
+  cursor: auto;
+  color: var(--color-white);
+  opacity: 0.6;
+  font-weight: 400;
+  font-size: 14px;
+}

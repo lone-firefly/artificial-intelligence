@@ -1,0 +1,7 @@
+.footer__link-main {
+  text-decoration: none;
+  cursor: auto;
+  color: var(--color-white);
+  font-weight: 400;
+  font-size: 16px;
+}
