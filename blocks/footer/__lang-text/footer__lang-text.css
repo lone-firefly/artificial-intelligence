@@ -1,7 +1,7 @@
 .footer__lang-text {
-  width: 86px;
-  height: 18px;
-  display: flex;
-  align-items: center;
-  color: var(--color-white);
+  font-size: 14px;
+  font-weight: 400;
+  margin: 0;
+  margin-left: 8.26px;
+  margin-right: 16.7px;
 }

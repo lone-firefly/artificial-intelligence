@@ -1,0 +1,8 @@
+.footer__lang {
+  width: 86px;
+  height: 18px;
+  display: flex;
+  align-items: center;
+  color: var(--color-white);
+  margin-top: 52.75px;
+}

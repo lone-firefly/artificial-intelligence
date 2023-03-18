@@ -78,4 +78,5 @@
 @import "../blocks/footer/__group-site/footer__group-site.css";
 @import "../blocks/footer/__logo/footer__logo.css";
 @import "../blocks/footer/__lang-text/footer__lang-text.css";
+@import "../blocks/footer/__lang/footer__lang.css";
 @import "../blocks/footer/footer.css";
