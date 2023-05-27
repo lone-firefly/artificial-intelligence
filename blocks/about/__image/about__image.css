@@ -1,4 +1,6 @@
 .about__image {
-  width: 642px;
-  height: 551px;
+  max-width: 642px;
+  max-height: 551px;
+  width: 40%;
+  height: 40%;
 }

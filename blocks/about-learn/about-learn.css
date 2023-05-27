@@ -1,6 +1,7 @@
 .about-learn {
   display: flex;
   gap: 70px;
-  margin-left: 256px;
+  justify-content: center;
   margin-top: 130px;
+  align-items: center;
 }

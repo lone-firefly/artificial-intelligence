@@ -1,4 +1,6 @@
 .main-info__image {
-  width: 632px;
-  height: 634px;
+  width: 40%;
+  height: 40%;
+  max-width: 632px;
+  max-height: 634px;
 }

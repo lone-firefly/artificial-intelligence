@@ -1,4 +1,6 @@
 .about-learn__image {
-  width: 725px;
-  height: 669px;
+  max-width: 725px;
+  max-height: 669px;
+  width: 40%;
+  height: 40%;
 }

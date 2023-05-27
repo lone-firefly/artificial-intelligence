@@ -2,4 +2,7 @@
   display: flex;
   gap: 30px;
   margin-top: 170px;
+  max-width: 1930px;
+  width: 100%;
+  overflow: hidden;
 }

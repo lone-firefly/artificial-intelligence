@@ -5,6 +5,6 @@
   border-radius: 10px;
   display: flex;
   align-items: last baseline;
-  padding-left: 424px;
   padding-bottom: 146px;
+  justify-content: center;
 }
