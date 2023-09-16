@@ -3,4 +3,12 @@
   display: flex;
   justify-content: center;
   height: 100px;
+
+  box-sizing: border-box;
+  padding-left: 40px;
+  padding-right: 40px;
+  max-width: 1400px;
+  width: 80%;
+  min-width: 1100px;
+  justify-content: space-between;
 }

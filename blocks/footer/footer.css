@@ -7,4 +7,8 @@
   align-items: last baseline;
   padding-bottom: 146px;
   justify-content: center;
+  gap: 40px;
+  box-sizing: border-box;
+  padding-left: 40px;
+  padding-right: 40px;
 }

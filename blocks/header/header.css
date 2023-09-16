@@ -3,4 +3,6 @@
   background: var(--color-main-leniar);
   backdrop-filter: blur(100px);
   border-radius: 10px;
+  display: flex;
+  justify-content: center;
 }
